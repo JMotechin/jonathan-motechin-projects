@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest
--------------------------------------------------------------------------------
-Tests run: 51, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.689 sec
